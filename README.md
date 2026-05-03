@@ -42,11 +42,7 @@ Apaixonado por tecnologia e resolução de problemas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Hdcvx&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -56,7 +52,7 @@ Apaixonado por tecnologia e resolução de problemas
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Hdcvx&show_icons=true" />
-</picture>
+</picture> -->
 
 ---
 
