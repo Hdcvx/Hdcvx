@@ -46,12 +46,17 @@ Apaixonado por tecnologia e resolução de problemas
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hdcvx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=90cdf4&icon_color=4fd1c5&text_color=a0aec0&rank_icon=github&cache_seconds=1800" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hdcvx&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=90cdf4&text_color=a0aec0&langs_count=8&cache_seconds=1800" />
-
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Hdcvx&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Hdcvx&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hdcvx&show_icons=true" />
+</picture>
 
 ---
 
