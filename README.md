@@ -2,7 +2,7 @@
 
 **I'm Vitor** — I'm a Data Engineer and AI Engineer. I love technology and solving complex problems with data and artificial intelligence.
 
-Check out my [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN).
+Check out my [LinkedIn](https://linkedin.com/in/Hdcvx).
 
 [![SkillIcons](https://skillicons.dev/icons?i=python,pytorch,tensorflow,kafka,postgres,redis,aws,docker,terraform,github&theme=dark)](https://skillicons.dev)
 
